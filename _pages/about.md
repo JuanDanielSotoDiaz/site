@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I recently obtained my PhD at the <b>London School of Economics (LSE)</b>. I will join the School of Economics at the <b>University of Queensland (UQ)<b> as a Research Fellow in 2024.
+I recently obtained my PhD at the <b>London School of Economics (LSE)</b>. I will join the School of Economics at the <b>University of Queensland (UQ)</b> as a Research Fellow in 2024.
 
 My research lies on the intersection of the fields of economic geography, international trade, resource and development economics. It aims to develop a better understanding of [<i>The Spatial Economy</i>](https://www.aeaweb.org/articles?id=10.1257/jel.20181414) for the design of policies that promote economic growth and development by means of more sustainable and inclusive forms of production.
 
