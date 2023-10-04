@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I recently completed my PhD at the [London School of Economics and Political Science (LSE)](https://www.lse.ac.uk/geography-and-environment/people/phd-students/juan-soto-diaz). By next year I will join the School of Economics at the [University of Queensland (UQ)](https://economics.uq.edu.au) as a Research Fellow.
+I recently obtained my PhD at the [London School of Economics and Political Science (LSE)](https://www.lse.ac.uk/geography-and-environment/people/phd-students/juan-soto-diaz). I will join the School of Economics at the [University of Queensland (UQ)](https://economics.uq.edu.au) as a Research Fellow in 2024.
 
 My research lies on the intersection of the fields of economic geography, international trade, resource and development economics. It aims to develop a better understanding of [<i>The Spatial Economy</i>](https://www.aeaweb.org/articles?id=10.1257/jel.20181414) for the design of policies that promote economic growth and development by means of more sustainable and inclusive forms of production.
 
