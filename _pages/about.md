@@ -12,7 +12,7 @@ I recently obtained my PhD at the <b>London School of Economics (LSE)</b>. I wil
 
 My research lies on the intersection of the fields of economic geography, international trade, and development economics. 
 
-In my Job Market Paper, entitled <i>"Booming Sector, Multinationals, and Local Economic Development"</i>, I explore the average and heterogeneous effects of a resource boom and bust in local labor markets considering the role of Multinational Companies.
+In my Job Market Paper, entitled <i>"Booming Sector, Multinationals, and Local Economic Development"</i>, I explore the average and heterogeneous implications of a resource boom and bust in local labor markets considering the role of Multinational Companies.
 
 [Download my CV here](https://juandanielsotodiaz.github.io/site/files/JuanSotoDiaz_CV.pdf)          
 [Download my JPM here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4460735)   
