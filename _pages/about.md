@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Fellow in the School of Economics at the <b>University of Queensland (UQ)</b>. I obtained obtained my PhD at the <b>London School of Economics (LSE)</b> in 2023. 
+I am a Research Fellow in the School of Economics at the <b>University of Queensland (UQ)</b>. I obtained my PhD at the <b>London School of Economics (LSE)</b> in 2023. 
 
 My research lies on the intersection of the fields of economic geography, international trade, development economics, and resource and environmental economics. 
 
