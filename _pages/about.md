@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Fellow in the [School of Economics](https://economics.uq.edu.au) and the [Sustainable Minerals Institute](https://smi.uq.edu.au) at the <b>University of Queensland (UQ)</b>. I obtained my PhD from the <b>London School of Economics (LSE)</b> in 2023. 
+I am a Research Fellow in the [School of Economics](https://economics.uq.edu.au) and the [Sustainable Minerals Institute](https://smi.uq.edu.au) at the <b>University of Queensland (UQ)</b>. I obtained my PhD from the <b>London School of Economics (LSE)</b>, [Department of Geography and Environment](https://www.lse.ac.uk/geography-and-environment), in 2023. 
 
 My research lies on the intersection of the fields of economic geography, international trade, development economics, and resource and environmental economics. 
 
