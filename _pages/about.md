@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I recently obtained my PhD at the <b>London School of Economics (LSE)</b>. I will join the School of Economics at the <b>University of Queensland (UQ)</b> as a Research Fellow in 2024.
+I am a Research Fellow in the School of Economics at the <b>University of Queensland (UQ)</b>. I obtained obtained my PhD at the <b>London School of Economics (LSE)</b> in 2023. 
 
-My research lies on the intersection of the fields of economic geography, international trade, and development economics. 
+My research lies on the intersection of the fields of economic geography, international trade, development economics, and resource and environmental economics. 
 
 In my Job Market Paper, entitled <i>"Booming Sector, Multinationals, and Local Economic Development"</i>, I explore the average and heterogeneous implications of a resource boom and bust in local labor markets.
 
