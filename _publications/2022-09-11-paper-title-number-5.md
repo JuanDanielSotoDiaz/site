@@ -3,7 +3,7 @@ title: "Technology, Geography, and Diversification in a Small Mineral Economy"
 collection: publications
 permalink: /publication/2022-09-11-paper-title-number-4
 excerpt: ''
-date: 
+date: 2022-09-11
 venue: 'The Extractive Industries and Society'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S2214790X22000417'
 citation: ''
