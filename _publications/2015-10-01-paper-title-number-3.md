@@ -12,4 +12,3 @@ The geographical expansion and increasing complexity of extractive production im
 
 [Download paper here](https://www.sciencedirect.com/science/article/abs/pii/S0301420717303173)
 
-Recommended citation: Atienza, M., and Lufin, M. and J. Soto (2021). "Mining Linkages in the Chilean Copper Supply Network and Regional Economic Development." <i>Resources Policy</i>. 70(101154).
