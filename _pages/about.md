@@ -15,6 +15,6 @@ My research lies on the intersection of the fields of economic geography, intern
 In my dissertation, entitled [<i>"Essays on Globalization, Commodities, and Local Economic Development"</i>](http://etheses.lse.ac.uk/id/eprint/4504), I studied the market mechanisms through which the unintended consequences of commodity booms in resource-oriented local labor markets have been fostered by features of international trade, which has been intensified over the past few decades. These features include offshoring, the presence of multinational companies, and participation in global value chains. In particular, my Job Market Paper, [<i>"Booming Sector, Multinationals, and Local Economic Development"</i>](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4460735), explores the average and heterogeneous implications of a resource boom and bust in local labor markets considering the presence of multinational companies in the resource sector, which is an important feature of modern resource-rich economies and key to understand the extent to which the resource sector can foster a process of sustainable long-term local economic development.
 
 [Download my CV here](https://juandanielsotodiaz.github.io/site/files/JuanSotoDiaz_CV.pdf)          
-[Download my JPM here](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4460735)   
+[Download my JPM here](https://www.dropbox.com/scl/fi/5nkh344qammcsg3hhhagv/JMP_updatedAugust_2024.pdf?rlkey=ksj315abtvuf63xzeiq8p3ek4&st=mxklk1e1&dl=0)   
 
    
