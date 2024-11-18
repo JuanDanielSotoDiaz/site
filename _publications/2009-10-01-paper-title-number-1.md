@@ -12,4 +12,4 @@ In this paper, we estimate the size of the wage premium necessary to compensate 
 
 [Download paper here](https://onlinelibrary.wiley.com/doi/epdf/10.1111/jors.12269)
 
-Recommended citation: Soto, J. and D. Paredes (2016). "Cities, Wages, and the Urban Hierarchy." <i>Journal of Regional Science</i>. 56(4).
+Soto, J. and D. Paredes (2016). "Cities, Wages, and the Urban Hierarchy." <i>Journal of Regional Science</i>. 56(4).
