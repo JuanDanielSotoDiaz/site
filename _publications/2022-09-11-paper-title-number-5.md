@@ -12,4 +12,3 @@ When should a policymaker promote economic diversification in resource-rich regi
 
 [Download paper here](https://onlinelibrary.wiley.com/doi/epdf/10.1111/jors.12269)
 
-Recommended citation: Lufin, M. and J. Soto-Diaz (2022). "Technology, Geography, and Diversification in a Small Mineral Economy." <i>The Extractive Industries and Society</i>. 11(101080).
