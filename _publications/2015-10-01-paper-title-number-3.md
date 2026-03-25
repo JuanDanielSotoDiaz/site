@@ -6,7 +6,7 @@ excerpt: ''
 date: 2021-03-01
 venue: 'Resources Policy'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0301420717303173'
-coauthors: 'with M. Atienza and M. Lufin'
+coauthors: 'with <a href="https://scholar.google.com/citations?user=rHf-mZMAAAAJ&hl=en" class="coauthor-link">M. Atienza</a> and <a href="https://sites.google.com/a/ucn.cl/mlufin/inicio" class="coauthor-link">M. Lufin</a>'
 journal_cite: '<i>Resources Policy</i>, 70:1-12, 2021.'
 citation: 'Atienza, M., Lufin, M. and J. Soto (2021). &quot;Mining Linkages in the Chilean Copper Supply Network and Regional Economic Development.&quot; <i>Resources Policy</i>. 70(101154).'
 ---

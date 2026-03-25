@@ -6,7 +6,7 @@ excerpt: ''
 date: 2016-05-06
 venue: 'Journal of Regional Science'
 paperurl: 'https://onlinelibrary.wiley.com/doi/10.1111/jors.12269'
-coauthors: 'with D. Paredes'
+coauthors: 'with <a href="https://scholar.google.com/citations?user=fxp9vSgAAAAJ&hl=es" class="coauthor-link">D. Paredes</a>'
 journal_cite: '<i>Journal of Regional Science</i>, 56(4):596-614, 2016.'
 citation: 'Soto, J. and D. Paredes (2016). &quot;Cities, Wages, and the Urban Hierarchy.&quot; <i>Journal of Regional Science</i>. 56(4).'
 ---

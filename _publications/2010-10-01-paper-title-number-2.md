@@ -6,7 +6,7 @@ excerpt: ''
 date: 2018-11-01
 venue: 'Papers in Regional Science'
 paperurl: 'https://rsaiconnect.onlinelibrary.wiley.com/doi/abs/10.1111/pirs.12296'
-coauthors: 'with D. Paredes and D. Fleming'
+coauthors: 'with <a href="https://scholar.google.com/citations?user=fxp9vSgAAAAJ&hl=es" class="coauthor-link">D. Paredes</a> and <a href="https://scholars.latrobe.edu.au/dflemingmuno" class="coauthor-link">D. Fleming</a>'
 journal_cite: '<i>Papers in Regional Science</i>, 97(4):1337-1353, 2018.'
 citation: 'Paredes, D. and J. Soto (2018). &quot;Wage Compensation for Fly‐In/Fly‐Out and Drive‐In/Drive‐Out Commuters.&quot; <i>Papers in Regional Science</i>. 97(4).'
 ---
