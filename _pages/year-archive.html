@@ -11,11 +11,12 @@ redirect_from:
 
 <ul class="pub-list">
 {% for post in site.posts %}
-  {% if post.date.year < 2100 %}
+  {% assign post_year = post.date | date: '%Y' %}
+  {% unless post_year == '2199' %}
   <li>
     {% if post.paperurl %}<a href="{{ post.paperurl }}">{{ post.title }}</a>{% else %}{{ post.title }}{% endif %}<br>
     {% if post.coauthors %}({{ post.coauthors }})<br>{% endif %}
   </li>
-  {% endif %}
+  {% endunless %}
 {% endfor %}
 </ul>
