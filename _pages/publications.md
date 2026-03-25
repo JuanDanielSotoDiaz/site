@@ -10,11 +10,9 @@ author_profile: true
 <ul class="pub-list">
 {% for post in site.publications reversed %}
   <li>
-    {% if post.paperurl %}
-      <a href="{{ post.paperurl }}">{{ post.citation }}</a>
-    {% else %}
-      {{ post.citation }}
-    {% endif %}
+    {% if post.paperurl %}<a href="{{ post.paperurl }}">{{ post.title }}</a>{% else %}{{ post.title }}{% endif %}<br>
+    {% if post.coauthors %}({{ post.coauthors }})<br>{% endif %}
+    {% if post.journal_cite %}{{ post.journal_cite }}{% endif %}
   </li>
 {% endfor %}
 </ul>
