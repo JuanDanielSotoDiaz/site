@@ -14,6 +14,5 @@ My research lies at the intersection of the fields of economic geography, intern
 
 
 [Download my CV here](https://juandanielsotodiaz.github.io/site/files/JuanSotoDiaz_CV_c.pdf)          
-[Download my JPM here](https://juandanielsotodiaz.github.io/site/files/JMP_updatedAugust_2024_c.pdf)   
 
    
