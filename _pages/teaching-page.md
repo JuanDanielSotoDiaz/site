@@ -11,6 +11,10 @@ author_profile: true
   <p class="teaching-inst">The University of Queensland (UQ)</p>
   <ul class="teaching-list">
     <li>
+      <span>- <a href="{{ base_path }}/econ7720/">ECON7720 Ecological & Environmental Economics</a></span>
+      <span class="teaching-year">2026 (2nd semester)</span>
+    </li>
+    <li>
       <span>- <a href="{{ base_path }}/econ3510/">ECON3510 International Trade Theory and Policy</a></span>
       <span class="teaching-year">2025 (1st semester)</span>
     </li>
