@@ -13,6 +13,7 @@ author_profile: true
     {% if post.paperurl %}<a href="{{ post.paperurl }}">{{ post.title }}</a>{% else %}{{ post.title }}{% endif %}<br>
     {% if post.coauthors %}({{ post.coauthors }})<br>{% endif %}
     {% if post.journal_cite %}{{ post.journal_cite }}{% endif %}
+    {% if post.wpurl %}<br><span class="pub-links"><a href="{{ post.paperurl }}">[published version]</a> <a href="{{ post.wpurl }}">[working paper]</a></span>{% endif %}
   </li>
 {% endfor %}
 </ul>
