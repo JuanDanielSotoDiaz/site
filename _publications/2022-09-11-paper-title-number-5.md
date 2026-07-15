@@ -6,6 +6,7 @@ excerpt: ''
 date: 2022-09-11
 venue: 'The Extractive Industries and Society'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S2214790X22000417'
+pdfurl: '/site/files/EXIS_paper.pdf'
 coauthors: 'with <a href="https://sites.google.com/a/ucn.cl/mlufin/inicio" class="coauthor-link">M. Lufin</a>'
 journal_cite: '<i>The Extractive Industries and Society</i>, 11:1-14, 2022.'
 citation: 'Lufin, M. and J. Soto-Diaz (2022). &quot;Technology, Geography, and Diversification in a Small Mineral Economy.&quot; <i>The Extractive Industries and Society</i>. 11(101080).'
