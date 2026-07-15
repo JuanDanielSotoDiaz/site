@@ -5,7 +5,8 @@ permalink: /publication/2026-07-15-mine-waste
 excerpt: ''
 date: 2026-07-15
 venue: 'Journal of Cleaner Production'
-paperurl: '/site/files/JCLP_paper.pdf'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S095965262601471X'
+pdfurl: '/site/files/JCLP_paper.pdf'
 wpurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5399688'
 posterurl: '/site/files/posterJCLP.pdf'
 oneearthurl: 'https://www.cell.com/one-earth/fulltext/S2590-3322(25)00024-7'
