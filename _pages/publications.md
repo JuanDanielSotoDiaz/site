@@ -11,7 +11,11 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% if post.venue == 'Resources Policy' %}
   </ul>
-  <h2>Pre-doctoral</h2>
+  <div style="display: flex; align-items: center; margin: 1.5em 0 1em 0;">
+    <hr style="flex: 1; border: none; border-top: 1px solid #999;">
+    <span style="padding: 0 0.8em; font-size: 0.85em; color: #666; white-space: nowrap;">pre-doctoral work</span>
+    <hr style="flex: 1; border: none; border-top: 1px solid #999;">
+  </div>
   <ul class="pub-list">
   {% endif %}
   <li>
