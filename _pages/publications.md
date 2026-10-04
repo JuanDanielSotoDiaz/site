@@ -9,7 +9,7 @@ author_profile: true
 
 <ul class="pub-list">
 {% for post in site.publications reversed %}
-  {% if post.venue == 'Resources Policy' %}
+  {% if post.venue == 'The Extractive Industries and Society' %}
   </ul>
   <div style="display: flex; align-items: center; margin: 1.5em 0 1em 0;">
     <hr style="flex: 1; border: none; border-top: 1px solid #999;">
