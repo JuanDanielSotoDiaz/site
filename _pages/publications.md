@@ -13,7 +13,7 @@ author_profile: true
     {% if post.paperurl %}<a href="{{ post.paperurl }}">{{ post.title }}</a>{% else %}{{ post.title }}{% endif %}<br>
     {% if post.coauthors %}({{ post.coauthors }})<br>{% endif %}
     {% if post.journal_cite %}{{ post.journal_cite }}{% endif %}
-    {% if post.pdfurl or post.wpurl %}<br><span class="pub-links">{% if post.pdfurl %}<a href="{{ post.pdfurl }}">[published version]</a>{% endif %}{% if post.wpurl %} <a href="{{ post.wpurl }}">[working paper]</a>{% endif %}{% if post.slidesurl %} <a href="{{ post.slidesurl }}">[slides]</a>{% endif %}{% if post.posterurl %} <a href="{{ post.posterurl }}">[poster]</a>{% endif %}{% if post.oneearthurl %} <a href="{{ post.oneearthurl }}">[commentary]</a>{% endif %}{% if post.fundingurl %} <a href="{{ post.fundingurl }}">[funding]</a>{% endif %}</span>{% endif %}
+    {% if post.pdfurl or post.wpurl %}<br><span class="pub-links">{% if post.pdfurl %}<a href="{{ post.pdfurl }}">[published version]</a>{% endif %}{% if post.wpurl %} <a href="{{ post.wpurl }}">[working paper]</a>{% endif %}{% if post.slidesurl %} <a href="{{ post.slidesurl }}">[slides]</a>{% endif %}{% if post.posterurl %} <a href="{{ post.posterurl }}">[poster]</a>{% endif %}{% if post.oneearthurl %} <a href="{{ post.oneearthurl }}">[commentary]</a>{% endif %}{% if post.fundingurl %} <a href="{{ post.fundingurl }}">[funding]</a>{% endif %}{% if post.presentationurl %} <a href="{{ post.presentationurl }}">[presentation]</a>{% endif %}</span>{% endif %}
   </li>
 {% endfor %}
 </ul>
