@@ -9,6 +9,11 @@ author_profile: true
 
 <ul class="pub-list">
 {% for post in site.publications reversed %}
+  {% if post.venue == 'Resources Policy' %}
+  </ul>
+  <h2>Pre-doctoral</h2>
+  <ul class="pub-list">
+  {% endif %}
   <li>
     {% if post.paperurl %}<a href="{{ post.paperurl }}">{{ post.title }}</a>{% else %}{{ post.title }}{% endif %}<br>
     {% if post.coauthors %}({{ post.coauthors }})<br>{% endif %}
